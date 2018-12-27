@@ -9,6 +9,7 @@ public class MadlibsOfTheAmazon {
 		// If you find yourself having to cross a piranha-infested river, here's how to do it...
 		
 		// Get the user to enter an adjective
+String adjective = JOptionPane.showInputDialog("Give me an adjective");
 
 		// Get the user to enter a type of liquid
 
